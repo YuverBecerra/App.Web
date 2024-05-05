@@ -2,7 +2,7 @@ import dash
 from dash import html, dcc,Input, Output,callback
 import dash_bootstrap_components as dbc 
 import numpy as np
-
+import frontend
 from frontend.Estructuras.area_superior.titulo import variableA
 from frontend.Estructuras.area_subtitulos.subtitulos import variableB
 
